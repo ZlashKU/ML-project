@@ -1,7 +1,7 @@
 Project work for Machine Learning in Medicine, University of Oulu
 
-Abdul Mahir Fathima Sakeena (Sakeena.Abdul@student.oulu.fi)
-Theophilus Gabriel (Theophilus.Gabriel@student.oulu.fi)
+Abdul Mahir Fathima Sakeena (Sakeena.Abdul@student.oulu.fi), 
+Theophilus Gabriel (Theophilus.Gabriel@student.oulu.fi), 
 Zahidul Islam Khan (Zahidul.Khan@student.oulu.fi)
 
 This project aims to discover clinically meaningful subgroups within an HCV dataset using clustering methods. 
